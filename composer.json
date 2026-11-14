@@ -120,3 +120,5 @@
     "minimum-stability": "stable",
     "prefer-stable": true
 }
+
+THIS_IS_NOT_VALID_JSON
